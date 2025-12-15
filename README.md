@@ -1,2 +1,3 @@
 # le-nouveau
-destiné à enseigner aux enfants la fork
+destiné à enseigner aux enfants la merge
+(dang official)
